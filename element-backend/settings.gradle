@@ -1,3 +1,5 @@
 rootProject.name = 'element-backend'
 
 include 'element-server'
+include 'file-service'
+include 'notification-service'
